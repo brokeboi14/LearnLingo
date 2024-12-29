@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    height: 48px;
+    align-items: center;
+}
+.logoContainer {
+    display: flex;
+    gap: 8px;
+}
+.logoText {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -0.02em;
+    color: #121417;
+}
